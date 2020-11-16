@@ -1477,6 +1477,11 @@ b,sup,sub,u,del{color:#1f2b7b}
     width: 98%;
     height: 20em;
 }
+.reviewimg1 {
+  width: 98%;
+  height: 28em;
+}
+
 .pagenumber {
     text-align: right;
     margin-top: 15px;
