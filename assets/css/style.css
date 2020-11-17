@@ -1599,7 +1599,7 @@ b,sup,sub,u,del{color:#1f2b7b}
     min-height: 55px;
     height: 55px;
     flex-basis: 100%;
-    background: white;
+    background: gainsboro;
     padding-left: 4em;
 }
 .commonfooter {
