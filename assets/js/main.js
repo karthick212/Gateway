@@ -10,6 +10,10 @@
       });
     });
 
+    window.addEventListener('popstate', (event) => {
+      $('#preloader-active').delay(450).fadeOut('slow');
+    });
+
 /* 2. sticky And Scroll UP */
     $(window).on('scroll', function () {
       var scroll = $(window).scrollTop();
